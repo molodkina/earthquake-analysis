@@ -40,7 +40,7 @@ NOTE: a testing file 'file.csv' (earthquakes within the last 30 days as of 31 Ma
 2. **Run the script to perform the analysis with the argument containing the name of your file. An example command is:**
 
     ```bash
-    python earthquake-analysis.py file.csv
+    python earthquake_analysis.py file.csv
     ```
 
 ## Testing
