@@ -7,7 +7,6 @@ This project analyses earthquake data to identify the locations with the most ea
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Testing](#testing)
-4. [Project Structure](#project-structure)
 
 ## Installation
 
